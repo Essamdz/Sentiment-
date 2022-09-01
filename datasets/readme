@@ -1,0 +1,20 @@
+
+DATA INFO
+
+1. Twitter:
+    (1589, 2) ASTD
+    (1951, 2) ArTwitter
+    (754 , 2) QRCI (a bit noisy)
+
+2. LABR book reviews:
+    (16448, 2) LABR
+    
+3. MPQA Arabic:
+    (9996, 2) MPQA
+
+
+LABELS
+    In 1. and 2. labels are positive "1" or negative "0"
+    In 3. labels are neutral "1" or subjective "0"    
+    
+
